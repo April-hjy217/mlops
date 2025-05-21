@@ -6,3 +6,7 @@ print("Number of columns:", df.shape[1])
 3. As percentage: 98.12%
 
 4. Number of one-hot columns: 515
+
+5. the RMSE on train: 7.65
+
+6. Validation RMSE: 7.81
